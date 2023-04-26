@@ -1,0 +1,8 @@
+{
+  "name": "John Doe",
+  "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+  "verification": {
+    "stepsCompleter": 4,
+    "stepsAmount": 7
+  }
+}

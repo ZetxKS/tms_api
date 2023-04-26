@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alice Smith",
+    "phone": "+1-555-123-4567",
+    "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+    "registered": true
+  },
+  {
+    "name": "Bob Johnson",
+    "phone": "+1-555-987-6543",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+    "registered": true
+  },
+  {
+    "name": "Charlie Brown",
+    "phone": "+1-555-555-5555",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "registered": true
+  },
+  {
+    "name": "Diana Lee",
+    "phone": "+1-555-777-8888",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+    "registered": false
+  },
+  {
+    "name": "Emily Chen",
+    "phone": "+1-555-111-2222",
+    "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+    "registered": false
+  },
+  {
+    "name": "Frank Johnson",
+    "phone": "+1-555-555-1212",
+    "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+    "registered": false
+  },
+  {
+    "name": "Gina Davis",
+    "phone": "+1-555-222-3333",
+    "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+    "registered": false
+  },
+  {
+    "name": "Henry Park",
+    "phone": "+1-555-444-5555",
+    "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+    "registered": true
+  },
+  {
+    "name": "Isabel Kim",
+    "phone": "+1-555-666-7777",
+    "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "registered": true
+  },
+  {
+    "name": "Jackie Chan",
+    "phone": "+1-555-888-9999",
+    "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+    "registered": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Food",
+    "transactions": 5,
+    "total_amount": 120.00,
+    "available_amount": 280.00
+  },
+  {
+    "category": "Transportation",
+    "transactions": 2,
+    "total_amount": 45.50,
+    "available_amount": 354.50
+  },
+  {
+    "category": "Entertainment",
+    "transactions": 3,
+    "total_amount": 75.00,
+    "available_amount": 425.50
+  },
+  {
+    "category": "Shopping",
+    "transactions": 1,
+    "total_amount": 32.99,
+    "available_amount": 392.51
+  },
+  {
+    "category": "Utilities",
+    "transactions": 4,
+    "total_amount": 110.00,
+    "available_amount": 282.51
+  }
+]
