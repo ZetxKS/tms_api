@@ -1,0 +1,58 @@
+{
+  "courses": {
+    "previousClass": [
+      {
+        "image": "https://media.istockphoto.com/id/1408304018/es/foto/grupo-de-personas-alegres-en-un-seminario.jpg?s=612x612&w=0&k=20&c=5CXTbIkmuSIeKTah5bLWkK8Cj72I98DYKYdaBgf-WWw=",
+        "title": "Algebra 101",
+        "rating": 4.2,
+        "voters": 91,
+        "teacher": "Dr. Sarah Lee",
+        "label": "Best sell"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1404911176/es/foto/joven-alegre-tomando-notas-y-trabajando-en-casa.jpg?s=612x612&w=0&k=20&c=gmA-NBtALLc3pQHaqvJJtNFF77SN3rmGqPrqEmJJT_4=",
+        "title": "Creative Writing Workshop",
+        "rating": 4.9,
+        "voters": 23,
+        "teacher": "Ms. Emily Taylor",
+        "label": "New"
+      }
+    ],
+    "others": [
+      {
+        "image": "https://media.istockphoto.com/id/1366428092/es/foto/webinar-e-learning-skills-business-internet-technology-concepts-training-webinar-e-learning.jpg?s=612x612&w=0&k=20&c=Q5_X4JGihmPqldCMHgcKLuPwrv078Tp9OklxDxS281M=",
+        "title": "Introduction to Computer Science",
+        "rating": 4.3,
+        "voters": 112,
+        "teacher": "Prof. David Chen",
+        "label": "Best sell"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1419631265/es/foto/mujer-siguiendo-cursos-en-l%C3%ADnea-en-su-computadora-port%C3%A1til-en-casa.jpg?s=612x612&w=0&k=20&c=clkeSITLyPYpjenTuHzxoKFnSaTxA4tyWTyfybQBTtE=",
+        "title": "Modern interior design for beginner!",
+        "rating": 4.4,
+        "voters": 551,
+        "teacher": "Samantha Rossye",
+        "label": "New"
+      }
+    ],
+    "mostPopular": [
+      {
+        "image": "https://media.istockphoto.com/id/1473492203/es/foto/miembros-de-la-oficina-intercambiando-opiniones-diversas.jpg?s=612x612&w=0&k=20&c=3TqZlnyxAEm6ESjpMZQookgfYnNtxJBueldYp7HB2cY=",
+        "title": "Introduction to Biology",
+        "rating": 4.5,
+        "voters": 67,
+        "teacher": "Dr. Jane Smith",
+        "label": "Hot"
+      },
+      {
+        "image": "https://example.com/image2.jpg",
+        "title": "History of the Middle Ages",
+        "rating": 3.8,
+        "voters": 52,
+        "teacher": "Prof. John Doe",
+        "label": "New"
+      }
+    ]
+  }
+}

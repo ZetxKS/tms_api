@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "name": "Dr. Jane Smith",
+      "nickname": "@drjane",
+      "followed": true
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "name": "Prof. John Doe",
+      "nickname": "@profdoe",
+      "followed": false
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Dr. Sarah Lee",
+      "nickname": "@drlee",
+      "followed": true
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Ms. Emily Taylor",
+      "nickname": "@mstaylor",
+      "followed": false
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Prof. David Chen",
+      "nickname": "@profchen",
+      "followed": true
+    }
+  ]
+}
