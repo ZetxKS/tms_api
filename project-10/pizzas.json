@@ -1,0 +1,262 @@
+[
+  {
+    "photo": "https://img.freepik.com/free-photo/hawaiian-pizza_1203-2455.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Pepperoni",
+    "price_L": 12.99,
+    "price_M": 9.99,
+    "comments": [
+      {
+        "title": "Best Pizza Ever!",
+        "text": "I ordered a large meat lovers pizza and it was absolutely amazing! The crust was perfect, the toppings were plentiful, and the cheese was melted to perfection. I will definitely be ordering from this place again.",
+        "rating": 4.9,
+        "date": "2022-04-23",
+        "name": "Jane Smith"
+      },
+      {
+        "title": "Great Pizza!",
+        "text": "I ordered a medium pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the cheese was melted perfectly. The toppings were also good, and I really enjoyed the pizza overall.",
+        "rating": 4.3,
+        "date": "2022-05-01",
+        "name": "David Lee"
+      },
+      {
+        "title": "Not Impressed",
+        "text": "I ordered a small veggie pizza and was disappointed with the quality. The crust was bland and the toppings were sparse. The sauce was also not very good, and I didn't enjoy the pizza overall.",
+        "rating": 2.5,
+        "date": "2022-05-02",
+        "name": "Amy Chen"
+      },
+      {
+        "title": "Delicious Pizza",
+        "text": "I ordered a large BBQ chicken pizza and it was amazing. The crust was crispy, the toppings were generous, and the sauce was flavorful. I really enjoyed this pizza and would definitely order it again.",
+        "rating": 4.7,
+        "date": "2022-05-03",
+        "name": "Mark Johnson"
+      }
+    ],
+    "description": "Introducing our new Meat Lovers pizza, packed with all your favorite meats! This pizza is loaded with savory sausage, crispy bacon, juicy ham, and tender pepperoni, all on top of our signature crispy crust"
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/hawaiian-pizza_74190-2500.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Margherita",
+    "price_L": 10.99,
+    "price_M": 7.99,
+    "comments": [],
+    "description": "Margherita Pizza: Our Margherita Pizza is a classic Italian pizza made with fresh tomato sauce, mozzarella cheese, and fresh basil. The crust is thin and crispy, providing the perfect balance of flavors."
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/thinly-sliced-pepperoni-is-popular-pizza-topping-american-style-pizzerias-isolated-white-background-still-life_639032-229.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Hawaiian",
+    "price_L": 13.99,
+    "price_M": 10.99,
+    "comments": [
+      {
+        "title": "Great Pizza Place!",
+        "text": "I ordered a large pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the toppings were plentiful. I also ordered some garlic knots and they were delicious. Overall, a great pizza place!",
+        "rating": 4.5,
+        "date": "2022-05-05",
+        "name": "Emily Davis"
+      },
+      {
+        "title": "Disappointed",
+        "text": "I ordered a medium cheese pizza and was disappointed with the quality. The crust was soggy and the cheese was not melted properly. The sauce was also bland and didn't add much flavor. I wouldn't recommend this pizza place.",
+        "rating": 2.0,
+        "date": "2022-05-07",
+        "name": "Thomas Wilson"
+      },
+      {
+        "title": "Delicious Pizza!",
+        "text": "I ordered a large meatball pizza and it was delicious. The crust was crispy, the meatballs were seasoned well, and the cheese was melted perfectly. The sauce was also really good. I will definitely be ordering from this place again!",
+        "rating": 4.8,
+        "date": "2022-05-09",
+        "name": "Rachel Kim"
+      }
+    ],
+    "description": "Hawaiian Pizza: Our Hawaiian Pizza is a tropical delight that's perfect for any occasion. It's made with tomato sauce, mozzarella cheese, Canadian bacon, and juicy chunks of pineapple. The crust is thin and crispy, providing the perfect balance of sweet and savory flavors."
+  },
+  {
+    "photo": "https://img.freepik.com/premium-photo/fresh-tasty-pizza-white-background_211889-151.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Meat Lovers",
+    "price_L": 14.99,
+    "price_M": 11.99,
+    "comments": [
+      {
+        "title": "Best Pizza Ever!",
+        "text": "I ordered a large meat lovers pizza and it was absolutely amazing! The crust was perfect, the toppings were plentiful, and the cheese was melted to perfection. I will definitely be ordering from this place again.",
+        "rating": 4.9,
+        "date": "2022-04-23",
+        "name": "Jane Smith"
+      },
+      {
+        "title": "Great Pizza!",
+        "text": "I ordered a medium pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the cheese was melted perfectly. The toppings were also good, and I really enjoyed the pizza overall.",
+        "rating": 4.3,
+        "date": "2022-05-01",
+        "name": "David Lee"
+      },
+      {
+        "title": "Not Impressed",
+        "text": "I ordered a small veggie pizza and was disappointed with the quality. The crust was bland and the toppings were sparse. The sauce was also not very good, and I didn't enjoy the pizza overall.",
+        "rating": 2.5,
+        "date": "2022-05-02",
+        "name": "Amy Chen"
+      },
+      {
+        "title": "Delicious Pizza",
+        "text": "I ordered a large BBQ chicken pizza and it was amazing. The crust was crispy, the toppings were generous, and the sauce was flavorful. I really enjoyed this pizza and would definitely order it again.",
+        "rating": 4.7,
+        "date": "2022-05-03",
+        "name": "Mark Johnson"
+      }
+    ],
+    "description": "Meat Lovers Pizza: Our Meat Lovers Pizza is packed with flavor and loaded with toppings. It's made with tomato sauce, mozzarella cheese, pepperoni, Italian sausage, bacon, and ground beef. The crust is thick and chewy, making it the perfect pizza for meat lovers."
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/hawaiian-pizza_1203-2456.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Veggie",
+    "price_L": 12.99,
+    "price_M": 9.99,
+    "comments": [],
+    "description": "Veggie Pizza: Our Veggie Pizza is perfect for vegetarians and pizza lovers alike. It's made with fresh tomato sauce, mozzarella cheese, and a variety of fresh vegetables, including mushrooms, green peppers, onions, and black olives. The crust is thin and crispy, providing the perfect balance of flavors."
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/isolated-shot-pizza-with-ham-arugula_181624-45431.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "BBQ Chicken",
+    "price_L": 15.99,
+    "price_M": 12.99,
+    "comments": [
+      {
+        "title": "Great Pizza Place!",
+        "text": "I ordered a large pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the toppings were plentiful. I also ordered some garlic knots and they were delicious. Overall, a great pizza place!",
+        "rating": 4.5,
+        "date": "2022-05-05",
+        "name": "Emily Davis"
+      },
+      {
+        "title": "Disappointed",
+        "text": "I ordered a medium cheese pizza and was disappointed with the quality. The crust was soggy and the cheese was not melted properly. The sauce was also bland and didn't add much flavor. I wouldn't recommend this pizza place.",
+        "rating": 2.0,
+        "date": "2022-05-07",
+        "name": "Thomas Wilson"
+      },
+      {
+        "title": "Delicious Pizza!",
+        "text": "I ordered a large meatball pizza and it was delicious. The crust was crispy, the meatballs were seasoned well, and the cheese was melted perfectly. The sauce was also really good. I will definitely be ordering from this place again!",
+        "rating": 4.8,
+        "date": "2022-05-09",
+        "name": "Rachel Kim"
+      }
+    ],
+    "description": "BBQ Chicken Pizza: Our BBQ Chicken Pizza is a delicious twist on a classic pizza. It's made with tangy barbecue sauce, mozzarella cheese, grilled chicken, red onions, and fresh cilantro. The crust is thin and crispy, adding a nice crunch to the pizza."
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-281.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Supreme",
+    "price_L": 16.99,
+    "price_M": 13.99,
+    "comments": [
+      {
+        "title": "Best Pizza Ever!",
+        "text": "I ordered a large meat lovers pizza and it was absolutely amazing! The crust was perfect, the toppings were plentiful, and the cheese was melted to perfection. I will definitely be ordering from this place again.",
+        "rating": 4.9,
+        "date": "2022-04-23",
+        "name": "Jane Smith"
+      },
+      {
+        "title": "Great Pizza!",
+        "text": "I ordered a medium pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the cheese was melted perfectly. The toppings were also good, and I really enjoyed the pizza overall.",
+        "rating": 4.3,
+        "date": "2022-05-01",
+        "name": "David Lee"
+      },
+      {
+        "title": "Not Impressed",
+        "text": "I ordered a small veggie pizza and was disappointed with the quality. The crust was bland and the toppings were sparse. The sauce was also not very good, and I didn't enjoy the pizza overall.",
+        "rating": 2.5,
+        "date": "2022-05-02",
+        "name": "Amy Chen"
+      },
+      {
+        "title": "Delicious Pizza",
+        "text": "I ordered a large BBQ chicken pizza and it was amazing. The crust was crispy, the toppings were generous, and the sauce was flavorful. I really enjoyed this pizza and would definitely order it again.",
+        "rating": 4.7,
+        "date": "2022-05-03",
+        "name": "Mark Johnson"
+      }
+    ]
+  },
+  {
+    "photo": "https://img.freepik.com/premium-photo/fresh-tasty-pizza-with-pepperoni-isolated-white_136401-2186.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Mushroom",
+    "price_L": 13.99,
+    "price_M": 10.99,
+    "comments": []
+  },
+  {
+    "photo": "https://img.freepik.com/premium-photo/traditional-supreme-pizza-isolated-white-background_123827-20102.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Cheese",
+    "price_L": 11.99,
+    "price_M": 8.99,
+    "comments": [
+      {
+        "title": "Great Pizza Place!",
+        "text": "I ordered a large pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the toppings were plentiful. I also ordered some garlic knots and they were delicious. Overall, a great pizza place!",
+        "rating": 4.5,
+        "date": "2022-05-05",
+        "name": "Emily Davis"
+      },
+      {
+        "title": "Disappointed",
+        "text": "I ordered a medium cheese pizza and was disappointed with the quality. The crust was soggy and the cheese was not melted properly. The sauce was also bland and didn't add much flavor. I wouldn't recommend this pizza place.",
+        "rating": 2.0,
+        "date": "2022-05-07",
+        "name": "Thomas Wilson"
+      },
+      {
+        "title": "Delicious Pizza!",
+        "text": "I ordered a large meatball pizza and it was delicious. The crust was crispy, the meatballs were seasoned well, and the cheese was melted perfectly. The sauce was also really good. I will definitely be ordering from this place again!",
+        "rating": 4.8,
+        "date": "2022-05-09",
+        "name": "Rachel Kim"
+      }
+    ],
+    "description": "Four Cheese Pizza: Our Four Cheese Pizza is a cheesy delight that's perfect for cheese lovers. It's made with tomato sauce, mozzarella cheese, parmesan cheese, cheddar cheese, and feta cheese. The crust is thick and chewy, providing the perfect base for all that cheese."
+  },
+  {
+    "photo": "https://img.freepik.com/free-photo/meat-chicken-mushrooms-pizza-isolated-white-background-top-view-photo-menu_639032-224.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "name": "Buffalo Chicken",
+    "price_L": 15.99,
+    "price_M": 12.99,
+    "comments": [
+      {
+        "title": "Best Pizza Ever!",
+        "text": "I ordered a large meat lovers pizza and it was absolutely amazing! The crust was perfect, the toppings were plentiful, and the cheese was melted to perfection. I will definitely be ordering from this place again.",
+        "rating": 4.9,
+        "date": "2022-04-23",
+        "name": "Jane Smith"
+      },
+      {
+        "title": "Great Pizza!",
+        "text": "I ordered a medium pepperoni pizza and it was really good. The crust was crispy, the sauce was flavorful, and the cheese was melted perfectly. The toppings were also good, and I really enjoyed the pizza overall.",
+        "rating": 4.3,
+        "date": "2022-05-01",
+        "name": "David Lee"
+      },
+      {
+        "title": "Not Impressed",
+        "text": "I ordered a small veggie pizza and was disappointed with the quality. The crust was bland and the toppings were sparse. The sauce was also not very good, and I didn't enjoy the pizza overall.",
+        "rating": 2.5,
+        "date": "2022-05-02",
+        "name": "Amy Chen"
+      },
+      {
+        "title": "Delicious Pizza",
+        "text": "I ordered a large BBQ chicken pizza and it was amazing. The crust was crispy, the toppings were generous, and the sauce was flavorful. I really enjoyed this pizza and would definitely order it again.",
+        "rating": 4.7,
+        "date": "2022-05-03",
+        "name": "Mark Johnson"
+      }
+    ],
+    "description": "Buffalo Chicken Pizza: Our Buffalo Chicken Pizza is a spicy and flavorful pizza that's sure to satisfy. It's made with tangy buffalo sauce, mozzarella cheese, grilled chicken, red onions, and fresh cilantro. The crust is thin and crispy, adding a nice crunch to the pizza."
+  }
+]
