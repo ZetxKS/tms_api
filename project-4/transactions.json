@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2023-04-30",
+    "transactions": [
+      {
+        "time": "11:45:00",
+        "amount": 0.0382,
+        "receiver": "Bob"
+      },
+      {
+        "time": "14:30:00",
+        "amount": 0.0231,
+        "receiver": "Dave"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-29",
+    "transactions": [
+      {
+        "time": "09:15:00",
+        "amount": 0.0051,
+        "receiver": "Charlie"
+      },
+      {
+        "time": "15:20:00",
+        "amount": 0.0153,
+        "sender": "Dave",
+        "receiver": "Alice"
+      },
+      {
+        "time": "18:10:00",
+        "amount": 0.0082,
+        "receiver": "Bob"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-28",
+    "transactions": [
+      {
+        "time": "12:30:00",
+        "amount": 0.0201,
+        "receiver": "Charlie"
+      },
+      {
+        "time": "16:45:00",
+        "amount": 0.0312,
+        "receiver": "Dave"
+      }
+    ]
+  }
+]

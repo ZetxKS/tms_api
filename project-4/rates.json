@@ -1,0 +1,26 @@
+[
+  {
+    "currency": "BTC",
+    "name": "Bitcoin",
+    "logo": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/btc.png",
+    "price": "35331.12"
+  },
+  {
+    "currency": "ETH",
+    "name": "Ether",
+    "logo": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/eth.png",
+    "price": "2243.38"
+  },
+  {
+    "currency": "BNB",
+    "name": "Binance coin",
+    "logo": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/bnb.png",
+    "price": "325.47"
+  },
+  {
+    "currency": "XRP",
+    "name": "XRP",
+    "logo": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/128/color/xrp.png",
+    "price": "0.46"
+  }
+] 
