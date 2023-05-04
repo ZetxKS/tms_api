@@ -1,0 +1,546 @@
+[
+  {
+    "image": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Introduction to Programming",
+    "description": "Learn the fundamentals of programming, including basic concepts such as data types, control structures, and algorithms. You'll gain a solid foundation in programming and problem-solving skills that will prepare you for more advanced coursework in computer science and software development.",
+    "teacher": "John Smith",
+    "price": 99.99,
+    "category": "Computer Science",
+    "lessons": [
+      {
+        "title": "Introduction to Programming",
+        "duration": 2
+      },
+      {
+        "title": "Data Types and Variables",
+        "duration": 3
+      },
+      {
+        "title": "Operators and Expressions",
+        "duration": 3
+      },
+      {
+        "title": "Control Structures",
+        "duration": 4
+      },
+      {
+        "title": "Functions and Modules",
+        "duration": 4
+      },
+      {
+        "title": "Algorithms",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/virtual-classroom-study-space_23-2149178631.jpg?size=626&ext=jpg&ga=GA1.2.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Spanish for Beginners",
+    "description": "Learn the basics of Spanish grammar and vocabulary, including greetings, introductions, numbers, and common phrases. You'll develop listening, speaking, reading, and writing skills to communicate effectively in everyday situations.",
+    "teacher": "Maria Rodriguez",
+    "price": 49.99,
+    "category": "Language Learning",
+    "lessons": [
+      {
+        "title": "Introduction to Spanish",
+        "duration": 2
+      },
+      {
+        "title": "Greetings and Introductions",
+        "duration": 3
+      },
+      {
+        "title": "Numbers and Dates",
+        "duration": 3
+      },
+      {
+        "title": "Common Phrases and Expressions",
+        "duration": 4
+      },
+      {
+        "title": "Basic Grammar",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/top-view-cropped-hands-senior-cook-unrecognizable-cutting-carrot-cooking-vegetable-stew_1098-20510.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Cooking 101",
+    "teacher": "Chef Michael",
+    "price": 79.99,
+    "category": "Cooking",
+    "description": "Learn the basic techniques and principles of cooking, including knife skills, cooking methods, and flavor profiles. You'll develop essential skills to cook simple and delicious meals from scratch and gain the confidence to explore new cuisines.",
+    "lessons": [
+      {
+        "title": "Introduction to Cooking",
+        "duration": 2
+      },
+      {
+        "title": "Knife Skills",
+        "duration": 3
+      },
+      {
+        "title": "Cooking Methods: Boiling, Steaming, and Simmering",
+        "duration": 4
+      },
+      {
+        "title": "Cooking Methods: Sautéing, Frying, and Grilling",
+        "duration": 4
+      },
+      {
+        "title": "Flavor Profiles",
+        "duration": 4
+      },
+      {
+        "title": "Meal Planning and Recipe Development",
+        "duration": 4
+      },
+      {
+        "title": "Special Diets and Allergies",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/portrait-amazed-pinup-woman-with-camera-charming-photographer-with-red-lips-taking-pictures_197531-15200.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Photography Basics",
+    "teacher": "Sarah Johnson",
+    "price": 149.99,
+    "category": "Photography",
+    "description": "Learn the basics of photography, including camera settings, composition, and lighting. You'll gain an understanding of how to use your camera and create well-composed images.",
+    "lessons": [
+      {
+        "title": "Introduction to Photography",
+        "duration": 2
+      },
+      {
+        "title": "Camera Settings",
+        "duration": 3
+      },
+      {
+        "title": "Composition",
+        "duration": 4
+      },
+      {
+        "title": "Lighting",
+        "duration": 4
+      },
+      {
+        "title": "Depth of Field",
+        "duration": 3
+      },
+      {
+        "title": "Shutter Speed",
+        "duration": 3
+      },
+      {
+        "title": "ISO",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/closeup-economist-using-calculator-while-going-through-bills-taxes-office_637285-3156.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Personal Finance",
+    "teacher": "David Lee",
+    "price": 69.99,
+    "category": "Finance",
+    "description": "Learn how to manage your money effectively and make informed financial decisions. You'll gain an understanding of budgeting, saving, investing, and credit, as well as how to plan for major life events.",
+    "lessons": [
+      {
+        "title": "Introduction to Personal Finance",
+        "duration": 2
+      },
+      {
+        "title": "Budgeting",
+        "duration": 3
+      },
+      {
+        "title": "Saving",
+        "duration": 3
+      },
+      {
+        "title": "Investing",
+        "duration": 4
+      },
+      {
+        "title": "Credit",
+        "duration": 3
+      },
+      {
+        "title": "Retirement Planning",
+        "duration": 4
+      },
+      {
+        "title": "Tax Planning",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/young-woman-practicing-yoga-home_1303-20239.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Yoga for Beginners",
+    "teacher": "Megan Brown",
+    "price": 29.99,
+    "category": "Fitness",
+    "description": "Learn the basics of yoga, including poses, breathing techniques, and meditation. This course is designed for beginners and will help you develop a regular yoga practice to improve your physical and mental well-being.",
+    "lessons": [
+      {
+        "title": "Introduction to Yoga",
+        "duration": 2
+      },
+      {
+        "title": "Yoga Poses",
+        "duration": 3
+      },
+      {
+        "title": "Breathing Techniques",
+        "duration": 3
+      },
+      {
+        "title": "Meditation",
+        "duration": 4
+      },
+      {
+        "title": "Sun Salutations",
+        "duration": 3
+      },
+      {
+        "title": "Standing Poses",
+        "duration": 4
+      },
+      {
+        "title": "Seated Poses",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/digital-increasing-bar-graph-with-businessman-hand-overlay_53876-97640.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Business Strategy",
+    "teacher": "Mark Davis",
+    "price": 149.99,
+    "category": "Business",
+    "description": "Develop the skills and knowledge needed to create and execute successful business strategies. This course covers topics such as analyzing markets, understanding customer behavior, crafting a competitive advantage, and executing a strategic plan.",
+    "lessons": [
+      {
+        "title": "Introduction to Business Strategy",
+        "duration": 2
+      },
+      {
+        "title": "Market Analysis",
+        "duration": 3
+      },
+      {
+        "title": "Competitive Advantage",
+        "duration": 3
+      },
+      {
+        "title": "Customer Behavior",
+        "duration": 4
+      },
+      {
+        "title": "Strategic Planning",
+        "duration": 3
+      },
+      {
+        "title": "Implementation and Execution",
+        "duration": 4
+      },
+      {
+        "title": "Evaluating and Adjusting Strategies",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/young-woman-working-animation-studio_23-2149208036.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Graphic Design Basics",
+    "teacher": "Emily Taylor",
+    "price": 99.99,
+    "category": "Design",
+    "description": "Learn the fundamentals of graphic design, including typography, color theory, composition, and more. This course is perfect for beginners who want to start creating visual designs for personal or professional projects.",
+    "lessons": [
+      {
+        "title": "Introduction to Graphic Design",
+        "duration": 2
+      },
+      {
+        "title": "Typography Basics",
+        "duration": 3
+      },
+      {
+        "title": "Color Theory",
+        "duration": 3
+      },
+      {
+        "title": "Composition and Layout",
+        "duration": 4
+      },
+      {
+        "title": "Creating Graphics",
+        "duration": 3
+      },
+      {
+        "title": "Image Editing",
+        "duration": 4
+      },
+      {
+        "title": "Preparing Files for Print and Web",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/black-microphone-conference-room_1232-3128.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Public Speaking",
+    "teacher": "Jason Lee",
+    "price": 49.99,
+    "category": "Business",
+    "description": "Develop the skills and confidence to deliver effective speeches and presentations. This course covers topics such as identifying your audience, structuring a speech, managing nerves, and using body language effectively.",
+    "lessons": [
+      {
+        "title": "Introduction to Public Speaking",
+        "duration": 2
+      },
+      {
+        "title": "Identifying Your Audience",
+        "duration": 3
+      },
+      {
+        "title": "Structuring a Speech",
+        "duration": 3
+      },
+      {
+        "title": "Delivering a Speech",
+        "duration": 4
+      },
+      {
+        "title": "Managing Nerves and Anxiety",
+        "duration": 3
+      },
+      {
+        "title": "Using Body Language Effectively",
+        "duration": 4
+      },
+      {
+        "title": "Visual Aids and Supporting Material",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/technology-human-touch-background-modern-remake-creation-adam_53876-129794.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Artificial Intelligence Fundamentals",
+    "teacher": "Ryan Kim",
+    "price": 199.99,
+    "category": "Computer Science",
+    "description": "Learn the fundamentals of Artificial Intelligence, including machine learning, neural networks, and natural language processing. This course is perfect for beginners who want to understand the basics of AI and its applications.",
+    "lessons": [
+      {
+        "title": "Introduction to Artificial Intelligence",
+        "duration": 2
+      },
+      {
+        "title": "Machine Learning Basics",
+        "duration": 3
+      },
+      {
+        "title": "Supervised Learning",
+        "duration": 3
+      },
+      {
+        "title": "Unsupervised Learning",
+        "duration": 4
+      },
+      {
+        "title": "Neural Networks",
+        "duration": 3
+      },
+      {
+        "title": "Natural Language Processing",
+        "duration": 4
+      },
+      {
+        "title": "AI Ethics and Applications",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/creativity-creative-ideas-imagination-inspiration-design-concept_53876-123736.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Creative Writing",
+    "teacher": "Emma Wilson",
+    "price": 69.99,
+    "category": "Computer Science",
+    "description": "Learn the basics of creative writing, including character development, plot structure, and dialogue. This course will help you develop your writing skills and find your unique voice as a writer.",
+    "lessons": [
+      {
+        "title": "Introduction to Creative Writing",
+        "duration": 2
+      },
+      {
+        "title": "Finding Inspiration",
+        "duration": 3
+      },
+      {
+        "title": "Character Development",
+        "duration": 3
+      },
+      {
+        "title": "Plot and Structure",
+        "duration": 4
+      },
+      {
+        "title": "Point of View and Voice",
+        "duration": 3
+      },
+      {
+        "title": "Dialogue and Description",
+        "duration": 4
+      },
+      {
+        "title": "Editing and Revising",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Web Development Bootcamp",
+    "teacher": "Chris Brown",
+    "price": 249.99,
+    "category": "Coding",
+    "description": "Become a professional web developer with this comprehensive bootcamp. Learn everything you need to know, from HTML and CSS to JavaScript and server-side programming. Build real-world projects and launch your career in web development.",
+    "lessons": [
+      {
+        "title": "Introduction to Web Development",
+        "duration": 2
+      },
+      {
+        "title": "HTML and CSS",
+        "duration": 3
+      },
+      {
+        "title": "JavaScript Basics",
+        "duration": 3
+      },
+      {
+        "title": "Advanced JavaScript",
+        "duration": 4
+      },
+      {
+        "title": "jQuery",
+        "duration": 3
+      },
+      {
+        "title": "React",
+        "duration": 4
+      },
+      {
+        "title": "Node.js and Express",
+        "duration": 3
+      },
+      {
+        "title": "Databases and SQL",
+        "duration": 4
+      },
+      {
+        "title": "APIs and RESTful Web Services",
+        "duration": 3
+      },
+      {
+        "title": "Deployment and Hosting",
+        "duration": 4
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/corporate-management-strategy-solution-branding-concept_53876-167088.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Digital Marketing",
+    "teacher": "Sophia Lee",
+    "price": 129.99,
+    "category": "Business",
+    "description": "Learn the skills and strategies needed to succeed in digital marketing, from search engine optimization (SEO) to social media marketing and email campaigns. This course covers the latest trends and best practices, and includes hands-on projects to help you apply what you learn.",
+    "lessons": [
+      {
+        "title": "Introduction to Digital Marketing",
+        "duration": 2
+      },
+      {
+        "title": "Search Engine Optimization (SEO)",
+        "duration": 3
+      },
+      {
+        "title": "Pay-Per-Click (PPC) Advertising",
+        "duration": 3
+      },
+      {
+        "title": "Social Media Marketing",
+        "duration": 4
+      },
+      {
+        "title": "Email Marketing",
+        "duration": 3
+      },
+      {
+        "title": "Content Marketing",
+        "duration": 4
+      },
+      {
+        "title": "Mobile Marketing",
+        "duration": 3
+      },
+      {
+        "title": "Analytics and Reporting",
+        "duration": 4
+      },
+      {
+        "title": "Conversion Optimization",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/lady-white-outfit-drawing-clothing-samples_197531-24038.jpg?size=626&ext=jpg&ga=GA1.1.434845099.1683056189&semt=robertav1_2_sidr",
+    "title": "Fashion Design",
+    "teacher": "Lucy Taylor",
+    "price": 149.99,
+    "category": "Design",
+    "description": "This comprehensive course teaches you the fundamentals of fashion design, from sketching and pattern making to sewing and production. You'll learn about the history of fashion, current trends, and how to create your own unique designs. By the end of the course, you'll have a portfolio of your own designs to showcase your skills.",
+    "lessons": [
+      {
+        "title": "Introduction to Fashion Design",
+        "duration": 2
+      },
+      {
+        "title": "Fashion Sketching",
+        "duration": 3
+      },
+      {
+        "title": "Pattern Making",
+        "duration": 4
+      },
+      {
+        "title": "Sewing Techniques",
+        "duration": 3
+      },
+      {
+        "title": "Fabrics and Materials",
+        "duration": 2
+      },
+      {
+        "title": "Fashion History",
+        "duration": 2
+      },
+      {
+        "title": "Trends and Forecasting",
+        "duration": 3
+      },
+      {
+        "title": "Portfolio Development",
+        "duration": 4
+      }
+    ]
+  }
+]
